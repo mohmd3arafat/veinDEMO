@@ -4,8 +4,8 @@
 include "functions.php";
 
 // Database connection parameters
-$dsn = "mysql:host=sql206.infinityfree.com;dbname=if0_36324101_veinDB"; // Data Source Name
-$user = "if0_36324101"; // Database username
+$dsn = "mysql:host=localhost;dbname=veinDB"; // Data Source Name
+$user = "root"; // Database username
 $pass = ""; // Database password
 
 // PDO options for database connection
